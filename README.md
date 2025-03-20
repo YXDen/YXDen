@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Den's%20Anime%20Profile&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Den's%20%20Profile&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -16,8 +16,17 @@
   <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 </div>
 
-<!-- Pink border around the next sections -->
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 15px; margin: 15px 0; background-color: rgba(0, 0, 0, 0.2);">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical&border=ff69b4" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
+</div>
 
 <table align="center">
   <tr>
@@ -46,8 +55,6 @@
   </tr>
 </table>
 
-</div>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -68,7 +75,6 @@
   🛠️ Technologies & Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
-<!-- Pink glowing tech badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -195,3 +201,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
+

@@ -101,10 +101,6 @@
 <h2 align="center">🚀 My Projects</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
-</div>
-
-<div align="center">
   <a href="https://github.com/your_username/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project1&theme=tokyonight&bg_color=0D1117&border_color=ff69b4" />
   </a>

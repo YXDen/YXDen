@@ -14,7 +14,7 @@
 
 📫 How to reach me: [aminagoldinvest@gmail.com](mailto:aminagoldinvest@gmail.com@gmail.com) 📧
 
-👔 If there is a suitable job opportunity, please feel free to send an email to [your_email@gmail.com](mailto:your_email@gmail.com). I will respond at the earliest convenience after receiving your message.
+👔 If there is a suitable job opportunity, please feel free to send an email to [your_email@gmail.com](mailto:aminagoldinvest@gmail.com@gmail.com). I will respond at the earliest convenience after receiving your message.
 
 ## Technologies 🚀
 

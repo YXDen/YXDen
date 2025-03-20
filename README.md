@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Anime+GitHub+Profile!;こんにちは、私はDenです!;Web+Developer+and+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFFFF">
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Anime Developer" width="500">
-</div>
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="200">

@@ -1,14 +1,14 @@
 # Hi there 👋
 
-## 👨‍🎓 Hi, I'm your_username! Graduated from University Name (University/XXXX)
+## 👨‍🎓 Hi, I'm Den! Currently a student passionate about web development
 
-🧑‍💻 A Software Engineer living in YourCity. Working in YourCompany. Good at Java, Frameworks
+🧑‍💻 A Web Developer specializing in modern JavaScript frameworks and libraries
 
-🔭 I'm currently focused on [Project1](https://github.com/your_username/project1) and [Project2](https://github.com/your_username/project2)
+🔭 I'm currently focused on building responsive and interactive web applications
 
-🌱 I'm currently learning English and Rust.
+🌱 I'm currently learning advanced React patterns and Next.js optimizations
 
-👯 I am looking for a partner developer on [Project3](https://github.com/your_username/project3)
+👯 I am looking for collaboration opportunities on interesting web projects
 
 🏠 This is my personal website. Here is my [portfolio page](https://your-website.com)
 
@@ -19,18 +19,18 @@
 ## Technologies 🚀
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-## Contributing projects
+## My Projects
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
       <a href="https://github.com/your_username/project1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project1&theme=dark" />
       </a>
-      <p>✅ Apache-licensed/OpenJDK-based in Rust - Faster, safer, and with lower memory usage</p>
+      <p>✅ Modern React application with Next.js - Fast, responsive, and SEO-friendly</p>
       <p>
         <img src="https://img.shields.io/github/stars/your_username/project1" alt="stars" />
         <img src="https://img.shields.io/github/forks/your_username/project1" alt="forks" />
@@ -49,7 +49,7 @@
       <a href="https://github.com/your_username/project2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project2&theme=dark" />
       </a>
-      <p>🔍 A lightweight, high-performance string lookup solution library optimized for speed-sensitive applications.</p>
+      <p>🔍 A lightweight, responsive UI component library built with React and styled with CSS modules</p>
       <p>
         <img src="https://img.shields.io/github/stars/your_username/project2" alt="stars" />
         <img src="https://img.shields.io/github/forks/your_username/project2" alt="forks" />
@@ -62,7 +62,7 @@
       <a href="https://github.com/your_username/project3">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project3&theme=dark" />
       </a>
-      <p>🌐 EventMesh is a new generation serverless event middleware for building distributed event-driven applications.</p>
+      <p>🌐 Interactive dashboard built with Vite and React for real-time data visualization</p>
       <p>
         <img src="https://img.shields.io/github/stars/your_username/project3" alt="stars" />
         <img src="https://img.shields.io/github/forks/your_username/project3" alt="forks" />
@@ -73,7 +73,7 @@
       <a href="https://github.com/your_username/project4">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project4&theme=dark" />
       </a>
-      <p>🚀 A self-hosted Java library for building high-available, high-reliable, strong-consistency messaging systems.</p>
+      <p>🚀 E-commerce website with Next.js, featuring server-side rendering and API routes</p>
       <p>
         <img src="https://img.shields.io/github/stars/your_username/project4" alt="stars" />
         <img src="https://img.shields.io/github/forks/your_username/project4" alt="forks" />
@@ -81,37 +81,42 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/your_username/project5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project5&theme=dark" />
-      </a>
-      <p>🚀 Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/your_username/project5" alt="stars" />
-        <img src="https://img.shields.io/github/forks/your_username/project5" alt="forks" />
-        <img src="https://img.shields.io/github/issues/your_username/project5" alt="issues" />
-      </p>
-    </td>
-    <td>
-      <a href="https://github.com/your_username/project6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project6&theme=dark" />
-      </a>
-      <p>🧠 Java AI framework for building and deploying LLM applications. Guaranteed model and execution pipeline on premise!</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/your_username/project6" alt="stars" />
-        <img src="https://img.shields.io/github/forks/your_username/project6" alt="forks" />
-        <img src="https://img.shields.io/github/issues/your_username/project6" alt="issues" />
-      </p>
-    </td>
-  </tr>
 </table>
+
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## Profile Views
 
-<p>Counting of visitors to this page in this section started from July 30, 2022</p>
+<p>Counting of visitors to this page in this section started from today</p>
 
 <img src="https://profile-counter.glitch.me/your_username/count.svg" alt="Visitor Count" />
 
-<!-- Добавьте график активности или другую визуализацию -->
+<!-- График активности -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=github-dark" alt="Contribution Graph" />
+
+## Learning Journey
+
+As a student web developer, I'm constantly learning and improving my skills. Here's what I'm currently focusing on:
+
+- 📚 Deepening my understanding of JavaScript fundamentals
+- 🔄 Mastering React hooks and state management
+- 🌐 Building full-stack applications with Next.js
+- 🎨 Improving my UI/UX design skills
+- 📱 Learning responsive design principles
+- 🚀 Exploring performance optimization techniques
+
+## Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>

@@ -1,67 +1,88 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Hi+there,+I'm+Den!;Web+Developer+and+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Den's%20Anime%20Profile&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Anime+GitHub+Profile!;こんにちは、私はDenです!;Web+Developer+and+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFFFF">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Anime Developer" width="500">
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="200">
 </div>
 
 <h2 align="center">👨‍🎓 About Me</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=monokai&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</div>
 
 <table align="center">
   <tr>
     <td>
-      🧑‍💻 A Web Developer specializing in modern JavaScript frameworks and libraries
+      <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40"> A Web Developer specializing in modern JavaScript frameworks and libraries
     </td>
     <td>
-      🔭 I'm currently focused on building responsive and interactive web applications
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🌱 I'm currently learning advanced React patterns and Next.js optimizations
-    </td>
-    <td>
-      👯 I am looking for collaboration opportunities on interesting web projects
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> I'm currently focused on building responsive and interactive web applications
     </td>
   </tr>
   <tr>
     <td>
-      🏠 This is my personal website. Here is my <a href="https://your-website.com">portfolio page</a>
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"> I'm currently learning advanced React patterns and Next.js optimizations
     </td>
     <td>
-      📫 How to reach me: <a href="mailto:aminagoldinvest@gmail.com">aminagoldinvest@gmail.com</a> 📧
+      <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> I am looking for collaboration opportunities on interesting web projects
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="40"> This is my personal website. Here is my <a href="https://your-website.com">portfolio page</a>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"> How to reach me: <a href="mailto:aminagoldinvest@gmail.com">aminagoldinvest@gmail.com</a> 📧
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <details>
   <summary>📝 Click here for job opportunities</summary>
   <p>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" align="right">
     If there is a suitable job opportunity, please feel free to send an email to <a href="mailto:aminagoldinvest@gmail.com">aminagoldinvest@gmail.com</a>. I will respond at the earliest convenience after receiving your message.
   </p>
 </details>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   Technologies & Tools
 </h2>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="200">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -75,64 +96,104 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">🚀 My Projects</h2>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
+</div>
+
+<div align="center">
   <a href="https://github.com/your_username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project1&theme=radical&bg_color=0D1117&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project1&theme=tokyonight&bg_color=0D1117&border_color=ff69b4" />
   </a>
   <a href="https://github.com/your_username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project2&theme=radical&bg_color=0D1117&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project2&theme=tokyonight&bg_color=0D1117&border_color=ff69b4" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/your_username/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project3&theme=radical&bg_color=0D1117&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project3&theme=tokyonight&bg_color=0D1117&border_color=ff69b4" />
   </a>
   <a href="https://github.com/your_username/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project4&theme=radical&bg_color=0D1117&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=project4&theme=tokyonight&bg_color=0D1117&border_color=ff69b4" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="200">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=false&border_color=ff69b4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=false&border_color=ff69b4" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=tokyo-night&bg_color=0D1117&color=ff69b4&line=ff69b4&point=FFFFFF&hide_border=false" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h2 align="center">👁️ Profile Views</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" width="200">
+</div>
 
 <div align="center">
   <p>Counting of visitors to this page started from today</p>
   <img src="https://profile-counter.glitch.me/your_username/count.svg" alt="Visitor Count" />
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">🌱 Learning Journey</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200">
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td>📚 Deepening my understanding of JavaScript fundamentals</td>
-      <td>🔄 Mastering React hooks and state management</td>
+      <td><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Deepening my understanding of JavaScript fundamentals</td>
+      <td><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> Mastering React hooks and state management</td>
     </tr>
     <tr>
-      <td>🌐 Building full-stack applications with Next.js</td>
-      <td>🎨 Improving my UI/UX design skills</td>
+      <td><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Building full-stack applications with Next.js</td>
+      <td><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> Improving my UI/UX design skills</td>
     </tr>
     <tr>
-      <td>📱 Learning responsive design principles</td>
-      <td>🚀 Exploring performance optimization techniques</td>
+      <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> Learning responsive design principles</td>
+      <td><img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30"> Exploring performance optimization techniques</td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">🤝 Let's Connect!</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="200">
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/your_linkedin">
@@ -147,5 +208,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>

@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Anime+GitHub+Profile!;こんにちは、私はDenです!;アニメが大好きなWeb開発者;Web+Developer+and+Anime+Fan&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=FF69B4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;こんにちは、私はDenです!;アニメが大好きなWeb開発者;Web+Developer&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
 <div align="center">

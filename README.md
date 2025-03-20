@@ -121,9 +121,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="200">
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=false&border_color=ff69b4" alt="GitHub Stats" />

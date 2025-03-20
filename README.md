@@ -140,9 +140,7 @@
 
 <h2 align="center">👁️ Profile Views</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" width="200">
-</div>
+
 
 <div align="center">
   <p>Counting of visitors to this page started from today</p>
